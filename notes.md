@@ -1,0 +1,4 @@
+- SQLite was chosen for simplicity and portability.
+- Express + better-sqlite3 is easy to use and quick to set up.
+- Frontend uses React and keep things simple.
+- Insight logic is rule based: counts by status/priority and due soon calculation.
